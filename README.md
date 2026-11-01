@@ -1,0 +1,2 @@
+# hyprNotes
+1
